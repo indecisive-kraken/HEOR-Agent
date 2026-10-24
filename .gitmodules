@@ -1,0 +1,6 @@
+[submodule "R-CEA-Analysis-Skeleton"]
+	path = R-CEA-Analysis-Skeleton
+	url = https://github.com/indecisive-kraken/R-CEA-Analysis-Skeleton
+[submodule "heor-langgraph-orchestrator"]
+	path = heor-langgraph-orchestrator
+	url = https://github.com/indecisive-kraken/heor-langgraph-orchestrator.git
